@@ -1,7 +1,7 @@
 // =======================================================
-// WEBSITE NAME (Rabbi Top Up)
+// WEBSITE NAME (WEBSITE)
 // =======================================================
-var website_name = "Rabbi";
+var website_name = "https://rabbi-top-up.onrender.com";
 
 // =======================================================
 // TELEGRAM CHANNEL LINK
